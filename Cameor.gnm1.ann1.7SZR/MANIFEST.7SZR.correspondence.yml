@@ -1,0 +1,8 @@
+%YAML 1.2
+---
+#filename in this repository: previous name
+pissa.Cameor.gnm1.ann1.7SZR.cds.fna.gz: Pisum_sativum_v1a_cds.fa
+pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz: Pisum_sativum_v1a_genes.gff3
+pissa.Cameor.gnm1.ann1.7SZR.mRNA.fna.gz: derived from gff3
+pissa.Cameor.gnm1.ann1.7SZR.protein.faa.gz: derived from gff3
+pissa.Cameor.gnm1.ann1.7SZR.protein_primaryTranscript.faa.gz: derived from gff3

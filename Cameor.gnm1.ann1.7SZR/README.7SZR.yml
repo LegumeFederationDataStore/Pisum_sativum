@@ -55,4 +55,4 @@ file_transformation:
 
 changes:
   - 2019-09-12 Initial repository creation
-
+  - 2019-10-11 Added cds_primaryTranscript.fna, corresponding with protein_primaryTranscript.fna

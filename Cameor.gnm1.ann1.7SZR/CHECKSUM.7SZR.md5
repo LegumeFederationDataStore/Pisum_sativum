@@ -1,9 +1,12 @@
-4480ec183f9fac30dd9235f53c12bf73 MANIFEST.7SZR.correspondence.yml
-d5514dfc25dd0e2757acf1d9cdb5168c MANIFEST.7SZR.descriptions.yml
-27185dfc082044e98f8e6554d094ed8c README.7SZR.yml
+975b3c3c47d6062a6e9ec2431934adb5 MANIFEST.7SZR.correspondence.yml
+4e1af33b49cd79312bf5922d948b7f9e MANIFEST.7SZR.descriptions.yml
+1741da44c060d20ee1260ec1ab4f8ff1 README.7SZR.yml
 c22105c86c34e6c924e064e8b62e79d4 pissa.Cameor.gnm1.ann1.7SZR.cds.fna.gz
 19f840847838d1a766dfb968e02f234c pissa.Cameor.gnm1.ann1.7SZR.cds.fna.gz.fai
 b6d7c2ad30a018fa88c73ef8f1b36b76 pissa.Cameor.gnm1.ann1.7SZR.cds.fna.gz.gzi
+84d6bfef1f02504472e946a89f5f86bb pissa.Cameor.gnm1.ann1.7SZR.cds_primaryTranscript.fna.gz
+5b5c399d5abde5a34051b0e1c3de14b0 pissa.Cameor.gnm1.ann1.7SZR.cds_primaryTranscript.fna.gz.fai
+5a394345563d09bcebea0d1b0cf204d6 pissa.Cameor.gnm1.ann1.7SZR.cds_primaryTranscript.fna.gz.gzi
 f02318395c1323469e8763b8e283a801 pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz
 d716ffa3b68326da9c92aa2abdbd518e pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz.csi
 b3d4361b3edb83032dcfb3eb7bbad2e9 pissa.Cameor.gnm1.ann1.7SZR.mRNA.fna.gz

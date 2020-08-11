@@ -7,3 +7,4 @@ pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz: gene models
 pissa.Cameor.gnm1.ann1.7SZR.mRNA.fna.gz: mRNA sequence, derived from gene_models file with gffread
 pissa.Cameor.gnm1.ann1.7SZR.protein.faa.gz: protein sequence, derived from gene_models file with gffread
 pissa.Cameor.gnm1.ann1.7SZR.protein_primaryTranscript.faa.gz: primary protein transcript
+pissa.Cameor.gnm1.ann1.7SZR.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments
